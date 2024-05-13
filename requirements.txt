@@ -1,0 +1,5 @@
+fundus
+torch
+flair
+scipy<1.13
+fastwarc==0.14.5
