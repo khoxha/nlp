@@ -1,0 +1,2000 @@
+__label__NEGATIVE teeny-bopper set
+__label__POSITIVE a black comedy ,
+__label__POSITIVE real turns
+__label__NEGATIVE pointless meditation
+__label__NEGATIVE huge mess
+__label__NEGATIVE numbing
+__label__NEGATIVE is hard to care
+__label__NEGATIVE superficial characters
+__label__NEGATIVE simply intrusive
+__label__NEGATIVE expected it to be
+__label__NEGATIVE a rather toothless take
+__label__NEGATIVE laziest
+__label__POSITIVE a true-blue delight .
+__label__POSITIVE a complex psychological drama
+__label__NEGATIVE exhausted
+__label__POSITIVE best and most mature
+__label__POSITIVE a splendid meal
+__label__NEGATIVE the all-too-familiar dramatic arc
+__label__POSITIVE entertaining comedy
+__label__NEGATIVE are wasted in it
+__label__POSITIVE are funny
+__label__NEGATIVE guilt-trip
+__label__POSITIVE rare and riveting
+__label__NEGATIVE depressing story
+__label__POSITIVE meticulous talent
+__label__NEGATIVE flimsy
+__label__NEGATIVE hubristic folly
+__label__POSITIVE the transcendent performance
+__label__NEGATIVE a ship as leaky
+__label__POSITIVE deserves recommendation
+__label__POSITIVE high-powered
+__label__POSITIVE means a great movie
+__label__POSITIVE mostly believable ,
+__label__NEGATIVE no particularly memorable effect
+__label__NEGATIVE a blip
+__label__POSITIVE , fun cheese puff
+__label__POSITIVE colorful look
+__label__NEGATIVE crematorium
+__label__POSITIVE memorable experience
+__label__POSITIVE clever
+__label__POSITIVE look sophisticated
+__label__POSITIVE memorable and
+__label__POSITIVE flavor and spice
+__label__NEGATIVE last-place basketball
+__label__NEGATIVE the worst sense
+__label__NEGATIVE fragmented film
+__label__POSITIVE strong
+__label__POSITIVE in this marvelous film
+__label__POSITIVE about their budding amours
+__label__POSITIVE keen eye ,
+__label__POSITIVE on intimate relationships
+__label__POSITIVE is never dull
+__label__POSITIVE easy to swallow ,
+__label__POSITIVE a first-class road movie
+__label__NEGATIVE as dahmer
+__label__POSITIVE whimsicality , narrative discipline
+__label__POSITIVE fixating
+__label__POSITIVE to have their kids
+__label__POSITIVE is extremely thorough .
+__label__NEGATIVE ultimate insignificance
+__label__POSITIVE in its own direction
+__label__NEGATIVE some fairly unsettling scenes
+__label__POSITIVE the wit and hoopla
+__label__NEGATIVE the pathetic idea
+__label__POSITIVE the relationships were wonderful
+__label__POSITIVE own preciousness
+__label__POSITIVE in the pianist
+__label__NEGATIVE boring and obvious
+__label__NEGATIVE too-hot-for-tv direct-to-video/dvd category
+__label__POSITIVE which is worth seeing
+__label__POSITIVE will make you laugh
+__label__POSITIVE mostly honest
+__label__POSITIVE seen this summer
+__label__POSITIVE dramatically satisfying
+__label__POSITIVE hope and magic
+__label__POSITIVE must-see
+__label__NEGATIVE to the haunted house
+__label__POSITIVE developed
+__label__POSITIVE call it magic
+__label__POSITIVE to bodacious
+__label__NEGATIVE a cartoon ?
+__label__POSITIVE a fairy tale
+__label__NEGATIVE overstating
+__label__POSITIVE , really good
+__label__NEGATIVE legged freaks
+__label__NEGATIVE grossest
+__label__NEGATIVE witless and utterly pointless
+__label__POSITIVE zippy jazzy score
+__label__POSITIVE the still-inestimable contribution
+__label__POSITIVE wise , wizened
+__label__POSITIVE you can find humor
+__label__POSITIVE high
+__label__POSITIVE a gripping documentary
+__label__POSITIVE clear-eyed portrait
+__label__POSITIVE charming and evoking
+__label__NEGATIVE charmless and
+__label__NEGATIVE verges on the amateurish
+__label__NEGATIVE paranoid and unlikable
+__label__POSITIVE compelling enough
+__label__NEGATIVE lawrence 's over-indulgent tirade
+__label__POSITIVE speaks volumes ,
+__label__POSITIVE powerful 1957 drama
+__label__NEGATIVE the histrionic muse
+__label__POSITIVE the right movie
+__label__NEGATIVE beneath it
+__label__NEGATIVE pointless , stupid
+__label__NEGATIVE an empty exercise
+__label__POSITIVE terrific
+__label__POSITIVE of intelligent humor
+__label__POSITIVE passionate and
+__label__POSITIVE carried out
+__label__POSITIVE riveting documentary .
+__label__NEGATIVE , violent and mindless
+__label__NEGATIVE if downbeat ,
+__label__POSITIVE deftly captures
+__label__NEGATIVE genre a bad name
+__label__POSITIVE potent exploration
+__label__POSITIVE distinguish one sci-fi work
+__label__POSITIVE reason to go
+__label__NEGATIVE several plodding action sequences
+__label__POSITIVE a flashy editing style
+__label__POSITIVE light , silly
+__label__NEGATIVE without much success
+__label__POSITIVE long on glamour
+__label__NEGATIVE together frustrating difficult
+__label__POSITIVE the stylistic rigors
+__label__POSITIVE the value and respect
+__label__NEGATIVE worse stunt editing or
+__label__POSITIVE american sports
+__label__NEGATIVE lot to be desired
+__label__NEGATIVE bilked unsuspecting moviegoers
+__label__POSITIVE something to behold
+__label__POSITIVE go the distance
+__label__POSITIVE surprising discovery
+__label__POSITIVE live happily
+__label__NEGATIVE buck or
+__label__POSITIVE life in the performances
+__label__NEGATIVE unmemorable
+__label__NEGATIVE grave
+__label__NEGATIVE such message-mongering moralism
+__label__NEGATIVE , low-wattage
+__label__POSITIVE some clever scripting solutions
+__label__POSITIVE humanly funny film
+__label__NEGATIVE cram too many ingredients
+__label__POSITIVE interested
+__label__NEGATIVE 77 minutes of pokemon
+__label__NEGATIVE contradiction
+__label__NEGATIVE waters it down ,
+__label__NEGATIVE ludicrous and contrived plot
+__label__POSITIVE rich in emotional texture
+__label__POSITIVE delicious , quirky movie
+__label__NEGATIVE robbed and replaced
+__label__POSITIVE flexible
+__label__POSITIVE climax
+__label__NEGATIVE glaring triteness
+__label__POSITIVE share their enthusiasm
+__label__NEGATIVE of nonsense
+__label__POSITIVE worldly knowledge
+__label__POSITIVE alternately melancholic , hopeful
+__label__POSITIVE devastating indictment
+__label__POSITIVE strong and unforced
+__label__POSITIVE could be this good
+__label__NEGATIVE f
+__label__NEGATIVE cutesy reliance
+__label__NEGATIVE overwrought , melodramatic bodice-ripper
+__label__POSITIVE warm , inviting ,
+__label__NEGATIVE dumb action movie
+__label__POSITIVE purely enjoyable
+__label__NEGATIVE murderous
+__label__POSITIVE tiny acts of kindness
+__label__NEGATIVE wasted .
+__label__POSITIVE fascinating look
+__label__NEGATIVE ai n't art ,
+__label__NEGATIVE its faults
+__label__POSITIVE a distinguished film legacy
+__label__POSITIVE almost wildly alive
+__label__POSITIVE saved this film
+__label__POSITIVE daytime
+__label__POSITIVE , clarity and emotional
+__label__NEGATIVE more problematic aspects
+__label__POSITIVE noteworthy characters
+__label__NEGATIVE '' lacks in depth
+__label__NEGATIVE 's not only dull
+__label__POSITIVE best
+__label__NEGATIVE grotesque and
+__label__NEGATIVE depressingly thin and
+__label__NEGATIVE no-surprise
+__label__POSITIVE crisp psychological drama
+__label__NEGATIVE has never
+__label__POSITIVE an interesting psychological game
+__label__NEGATIVE unrelentingly exploitative
+__label__POSITIVE victorious
+__label__NEGATIVE less capable
+__label__POSITIVE hilarity .
+__label__POSITIVE fanciful thinkers
+__label__POSITIVE rare insight
+__label__NEGATIVE not too filling
+__label__NEGATIVE committed dumbness
+__label__NEGATIVE unmentionable
+__label__POSITIVE enjoy
+__label__NEGATIVE all the halfhearted zeal
+__label__POSITIVE create
+__label__NEGATIVE squandering
+__label__POSITIVE elegantly
+__label__NEGATIVE detract from the athleticism
+__label__NEGATIVE the lousy tarantino imitations
+__label__POSITIVE extended , open-ended poem
+__label__POSITIVE miracle
+__label__POSITIVE searing lead performance
+__label__NEGATIVE rent the disney version
+__label__NEGATIVE turd
+__label__NEGATIVE overflowing septic tank
+__label__POSITIVE sensual and funny
+__label__POSITIVE enthusiastic charm
+__label__NEGATIVE is a horrible movie
+__label__POSITIVE awesome
+__label__POSITIVE , amusing study
+__label__NEGATIVE find an escape clause
+__label__POSITIVE pretty funny
+__label__POSITIVE a majestic achievement ,
+__label__NEGATIVE familiar and predictable ,
+__label__NEGATIVE sentimentalized
+__label__POSITIVE an ambitious movie
+__label__NEGATIVE mediocre end
+__label__NEGATIVE tragic waste
+__label__POSITIVE moulin rouge
+__label__POSITIVE visual clarity and deeply
+__label__POSITIVE efficiency and
+__label__POSITIVE variable
+__label__NEGATIVE muddy psychological
+__label__POSITIVE humanly possible
+__label__POSITIVE amiable but
+__label__POSITIVE sentimentalizing it
+__label__NEGATIVE one of them
+__label__POSITIVE with its own cuteness
+__label__NEGATIVE are acting horribly
+__label__POSITIVE his intellectual rigor
+__label__NEGATIVE is rather choppy
+__label__POSITIVE oddly moving
+__label__NEGATIVE lifeless rumblings
+__label__POSITIVE a fine idea
+__label__POSITIVE warm your heart
+__label__NEGATIVE , unmemorable filler .
+__label__POSITIVE emotional intelligence
+__label__POSITIVE this comic slugfest
+__label__POSITIVE feel fresh
+__label__NEGATIVE unfunny tricks
+__label__POSITIVE enjoying himself immensely
+__label__NEGATIVE most horrific
+__label__NEGATIVE the film 's creepy
+__label__POSITIVE , introspective and entertaining
+__label__POSITIVE ( headbanger )
+__label__NEGATIVE a big letdown
+__label__NEGATIVE encumbers itself
+__label__NEGATIVE already thin story
+__label__NEGATIVE make it sting
+__label__POSITIVE educational !
+__label__POSITIVE expecting
+__label__POSITIVE unblinkingly pure
+__label__NEGATIVE silly humbuggery ...
+__label__POSITIVE and unabashed sweetness
+__label__NEGATIVE pinheads
+__label__POSITIVE chilling and fascinating
+__label__NEGATIVE seven rip-off
+__label__NEGATIVE captive by mediocrity .
+__label__NEGATIVE crane 's decline
+__label__POSITIVE a delightful entree
+__label__NEGATIVE worse , routine
+__label__POSITIVE stylized swedish fillm
+__label__POSITIVE its crack cast
+__label__POSITIVE can act
+__label__POSITIVE better-focused
+__label__NEGATIVE brutal 90-minute battle sequence
+__label__POSITIVE worth the effort
+__label__POSITIVE joyous celebration
+__label__POSITIVE otherworldly
+__label__POSITIVE loved this film
+__label__NEGATIVE imitative
+__label__POSITIVE greatest natural sportsmen
+__label__NEGATIVE once overly old-fashioned
+__label__POSITIVE , beautiful scene
+__label__POSITIVE an erotic thriller
+__label__NEGATIVE idiotic and ugly .
+__label__POSITIVE is generally light enough
+__label__NEGATIVE say nothing of boring
+__label__NEGATIVE deserves the hook
+__label__NEGATIVE undeniably hard
+__label__NEGATIVE screwed-up characters
+__label__POSITIVE catapulting
+__label__NEGATIVE relentlessly depressing
+__label__NEGATIVE artificial and opaque
+__label__NEGATIVE stilted
+__label__POSITIVE its first-time feature director
+__label__POSITIVE a brilliant movie
+__label__POSITIVE compelling story
+__label__POSITIVE summer entertainment
+__label__POSITIVE a compelling coming-of-age drama
+__label__NEGATIVE spin hopelessly out
+__label__POSITIVE detail
+__label__POSITIVE mildly entertaining
+__label__POSITIVE of our respect
+__label__POSITIVE last count
+__label__POSITIVE most amazing
+__label__POSITIVE are consistently delightful
+__label__NEGATIVE a dreary movie .
+__label__NEGATIVE 7th heaven
+__label__POSITIVE song-and-dance-man
+__label__POSITIVE this distinguished actor
+__label__NEGATIVE hyper-artificiality
+__label__POSITIVE sensuous and spirited tale
+__label__NEGATIVE stuffiest cinema goers
+__label__POSITIVE a definitive account
+__label__NEGATIVE far short
+__label__NEGATIVE off-puttingly cold
+__label__NEGATIVE disposable
+__label__NEGATIVE horrible poetry
+__label__POSITIVE hot-button items
+__label__POSITIVE submarine movie
+__label__POSITIVE of renegade-cop tales
+__label__NEGATIVE nincompoop
+__label__POSITIVE are both superb ,
+__label__NEGATIVE older
+__label__NEGATIVE oppressive
+__label__NEGATIVE marginal characters
+__label__NEGATIVE grow increasingly disturbed
+__label__POSITIVE of businesses
+__label__POSITIVE warm
+__label__POSITIVE , stylized humor throughout
+__label__POSITIVE both the beauty
+__label__POSITIVE the riveting performances
+__label__NEGATIVE so unmemorable
+__label__POSITIVE meditative and lyrical
+__label__POSITIVE a very good time
+__label__POSITIVE quirky drama
+__label__POSITIVE funnier .
+__label__POSITIVE many insightful moments .
+__label__POSITIVE enveloping sounds
+__label__POSITIVE heartwarmingly
+__label__POSITIVE a commanding screen presence
+__label__NEGATIVE none-too-funny commentary
+__label__NEGATIVE most of the distance
+__label__POSITIVE a better thriller
+__label__NEGATIVE worst thing
+__label__NEGATIVE jealous
+__label__NEGATIVE by-the-numbers yarn .
+__label__NEGATIVE crash-and-bash
+__label__POSITIVE composed delivery
+__label__POSITIVE keep my attention
+__label__POSITIVE seems to really care
+__label__NEGATIVE childlike dimness
+__label__POSITIVE a great cast
+__label__POSITIVE conservative christian parents
+__label__NEGATIVE paper thin
+__label__NEGATIVE devoid
+__label__POSITIVE an earnest moment
+__label__POSITIVE rouses us
+__label__NEGATIVE deathly
+__label__POSITIVE love and culture
+__label__POSITIVE delicate coming-of-age tale
+__label__NEGATIVE largely flat and uncreative
+__label__NEGATIVE sloppy
+__label__POSITIVE vastly improved germanic version
+__label__NEGATIVE seem irritatingly transparent
+__label__POSITIVE kissing
+__label__POSITIVE spectacularly well
+__label__POSITIVE their heroic capacity
+__label__NEGATIVE punishable by chainsaw
+__label__POSITIVE spain
+__label__POSITIVE but fun
+__label__NEGATIVE hastily and
+__label__NEGATIVE is just garbage .
+__label__POSITIVE star charisma
+__label__NEGATIVE grievous
+__label__NEGATIVE uncommitted
+__label__NEGATIVE cluelessness
+__label__NEGATIVE its underventilated père-fils confrontations
+__label__POSITIVE 's fun
+__label__POSITIVE completely loveable
+__label__POSITIVE keep you watching ,
+__label__NEGATIVE feels free to offend
+__label__NEGATIVE scratching your head
+__label__NEGATIVE demeaning
+__label__POSITIVE quirky movie
+__label__POSITIVE the big shear
+__label__NEGATIVE idiots
+__label__POSITIVE omnibus tradition
+__label__POSITIVE gentle and humane side
+__label__NEGATIVE greasy little vidgame pit
+__label__NEGATIVE as dumb and cheesy
+__label__POSITIVE one of the finest
+__label__POSITIVE its mind
+__label__NEGATIVE essentially awkward version
+__label__POSITIVE distinguished and
+__label__NEGATIVE grotesque
+__label__NEGATIVE victims
+__label__POSITIVE of honest working folk
+__label__POSITIVE humorous and heartfelt
+__label__POSITIVE trademark grin
+__label__NEGATIVE left me
+__label__NEGATIVE as it is flawed
+__label__POSITIVE clever credits roll
+__label__POSITIVE greatness
+__label__NEGATIVE there are lulls
+__label__NEGATIVE no worse a film
+__label__NEGATIVE based
+__label__POSITIVE mesmerizing cinematic poem
+__label__NEGATIVE its logical loopholes ,
+__label__NEGATIVE boring , pretentious
+__label__NEGATIVE an extremely unpleasant film
+__label__POSITIVE a serious contender
+__label__POSITIVE surprising winner
+__label__NEGATIVE hate this one
+__label__POSITIVE a hit -
+__label__POSITIVE outdoes its spectacle
+__label__NEGATIVE otherwise appalling , and
+__label__POSITIVE deeply absorbing piece
+__label__POSITIVE ideally
+__label__POSITIVE a spielberg trademark
+__label__NEGATIVE cut their losses
+__label__POSITIVE reaffirms life
+__label__POSITIVE elegant and
+__label__POSITIVE clever and very satisfying
+__label__POSITIVE a very distinctive sensibility
+__label__POSITIVE too great
+__label__NEGATIVE plainly dull
+__label__NEGATIVE stunningly unoriginal
+__label__POSITIVE ravishing , baroque beauty
+__label__POSITIVE to my great pleasure
+__label__NEGATIVE less-is-more
+__label__NEGATIVE incompetent
+__label__POSITIVE fine , focused
+__label__NEGATIVE endless
+__label__POSITIVE earnest dramaturgy
+__label__POSITIVE eloquence , spiritual challenge
+__label__POSITIVE never becomes claustrophobic
+__label__POSITIVE it 's sweet .
+__label__POSITIVE never feels draggy
+__label__POSITIVE been remarkable
+__label__NEGATIVE for no one
+__label__POSITIVE genuine and singular artist
+__label__NEGATIVE tedium
+__label__NEGATIVE cathartic
+__label__NEGATIVE melodramatic bodice-ripper
+__label__NEGATIVE is a dud .
+__label__POSITIVE a buoyant romantic comedy
+__label__NEGATIVE losing my lunch
+__label__NEGATIVE hide its contrivances
+__label__POSITIVE playful spirit
+__label__POSITIVE the most ingenious film
+__label__POSITIVE otherwise good
+__label__POSITIVE to bowling you over
+__label__POSITIVE comedy special
+__label__POSITIVE has something fascinating
+__label__POSITIVE handsome
+__label__NEGATIVE , virulently unpleasant excuse
+__label__NEGATIVE ugly and destructive
+__label__NEGATIVE baaaaaaaaad movie
+__label__POSITIVE modestly surprising movie
+__label__POSITIVE undeniably fascinating and playful
+__label__POSITIVE `` b +
+__label__POSITIVE cinematic
+__label__NEGATIVE ... hypnotically dull .
+__label__NEGATIVE it all unfolds predictably
+__label__POSITIVE the modern master
+__label__NEGATIVE a superfluous sequel ...
+__label__POSITIVE an engaging storyline ,
+__label__POSITIVE thoughtful , subjective filmmaking
+__label__NEGATIVE occasional slowness
+__label__NEGATIVE excruciating end
+__label__POSITIVE artful , watery tones
+__label__POSITIVE an original idea
+__label__NEGATIVE the self-destructiveness
+__label__POSITIVE perform entertaining tricks
+__label__POSITIVE closer than many movies
+__label__NEGATIVE lax and
+__label__POSITIVE high-minded appeal
+__label__POSITIVE the courageous molly craig
+__label__POSITIVE the four primary actors
+__label__NEGATIVE anger and frustration
+__label__POSITIVE spite of it
+__label__NEGATIVE a great missed opportunity
+__label__POSITIVE , witty and beneath
+__label__NEGATIVE the writing is insipid
+__label__NEGATIVE exploiting molestation for laughs
+__label__POSITIVE a beautiful film
+__label__NEGATIVE long-winded
+__label__POSITIVE deeply concerned with morality
+__label__NEGATIVE die
+__label__POSITIVE greater
+__label__POSITIVE his film crackles
+__label__NEGATIVE glorified sitcom
+__label__NEGATIVE super - violent ,
+__label__NEGATIVE most repellent
+__label__POSITIVE borders on rough-trade homo-eroticism
+__label__POSITIVE remarkable piece
+__label__POSITIVE is nicely
+__label__POSITIVE serious soul
+__label__POSITIVE leaves shockwaves
+__label__POSITIVE alternately fascinating and frustrating
+__label__POSITIVE misconstrued as weakness
+__label__POSITIVE top japanese animations
+__label__POSITIVE particularly innovative
+__label__POSITIVE very touching
+__label__POSITIVE of wit and dignity
+__label__POSITIVE wonderful cinematography
+__label__POSITIVE excellent music
+__label__POSITIVE graceful dual narrative
+__label__POSITIVE attractive and talented
+__label__POSITIVE seemingly sincere personal reflection
+__label__NEGATIVE strangely
+__label__NEGATIVE smug or sanctimonious
+__label__POSITIVE sublimely beautiful
+__label__POSITIVE a beautiful film ,
+__label__NEGATIVE is cumbersome
+__label__POSITIVE reasonably intelligent
+__label__NEGATIVE dull
+__label__NEGATIVE dripping with cliche and
+__label__NEGATIVE poor hermocrates and leontine
+__label__NEGATIVE rough-hewn vanity project
+__label__POSITIVE of whimsy
+__label__POSITIVE a funny no-brainer
+__label__NEGATIVE inconclusive ending
+__label__POSITIVE his most personal
+__label__POSITIVE hyper-realistic images
+__label__POSITIVE sneaks up on you
+__label__POSITIVE goofy way
+__label__NEGATIVE odd and
+__label__POSITIVE of strong voices
+__label__NEGATIVE spiteful idiots
+__label__POSITIVE an eminently engrossing film
+__label__POSITIVE film : honest
+__label__NEGATIVE bust
+__label__POSITIVE finds a nice rhythm
+__label__NEGATIVE irreconcilable
+__label__POSITIVE any fiction
+__label__POSITIVE my enjoyment
+__label__NEGATIVE , truly bad
+__label__NEGATIVE blasphemous and
+__label__POSITIVE various amusing sidekicks
+__label__POSITIVE suits the script
+__label__NEGATIVE no way original
+__label__NEGATIVE major waste
+__label__POSITIVE soulful gravity
+__label__NEGATIVE 's pathetic
+__label__POSITIVE academic
+__label__NEGATIVE statements and dime-store ruminations
+__label__POSITIVE savagely hilarious
+__label__NEGATIVE comedically labored
+__label__POSITIVE well worth
+__label__NEGATIVE pompous and garbled .
+__label__POSITIVE worthy addition
+__label__POSITIVE expected flair
+__label__POSITIVE a luis buñuel film
+__label__NEGATIVE fussy
+__label__NEGATIVE disjointed mess
+__label__NEGATIVE this dubious product
+__label__NEGATIVE unfunny and
+__label__POSITIVE as it stands i
+__label__POSITIVE stimulate
+__label__NEGATIVE saccharine as
+__label__NEGATIVE tediously
+__label__NEGATIVE complaints i might have
+__label__NEGATIVE emptiness
+__label__POSITIVE available
+__label__NEGATIVE very hollowness
+__label__POSITIVE unbridled delight
+__label__POSITIVE praises
+__label__POSITIVE cute moments
+__label__NEGATIVE hanging
+__label__POSITIVE its charm
+__label__NEGATIVE did the screenwriters just
+__label__POSITIVE touchingly
+__label__POSITIVE to be spectacularly outrageous
+__label__NEGATIVE is never satisfactory .
+__label__POSITIVE oscar-caliber performances
+__label__NEGATIVE surprisingly flat
+__label__POSITIVE painful and refreshing
+__label__POSITIVE much more ordinary
+__label__POSITIVE at his most sparkling
+__label__POSITIVE intriguing plot
+__label__POSITIVE with morality
+__label__POSITIVE these women 's
+__label__POSITIVE most edgy piece
+__label__POSITIVE idealism
+__label__POSITIVE offers a guilt-free trip
+__label__POSITIVE blood-curdling family intensity
+__label__POSITIVE outstanding soundtrack
+__label__POSITIVE a great team
+__label__NEGATIVE does n't reach them
+__label__POSITIVE land beyond time
+__label__NEGATIVE serious critique
+__label__POSITIVE surprisingly
+__label__POSITIVE an immensely entertaining look
+__label__NEGATIVE soulless jumble
+__label__POSITIVE a delicious crime drama
+__label__NEGATIVE strongly reminiscent
+__label__POSITIVE adoring , wide-smiling reception
+__label__POSITIVE iranian drama
+__label__POSITIVE gentle , touching story
+__label__POSITIVE kind ,
+__label__NEGATIVE distract
+__label__NEGATIVE plaintiveness
+__label__NEGATIVE unendurable
+__label__NEGATIVE knucklehead
+__label__POSITIVE hopefully inspire action
+__label__POSITIVE resonant
+__label__POSITIVE in heaven
+__label__POSITIVE humorous and heartfelt ,
+__label__POSITIVE make for great cinema
+__label__POSITIVE his personal obstacles
+__label__POSITIVE get you
+__label__POSITIVE a kingdom
+__label__POSITIVE intriguing , observant
+__label__NEGATIVE stoop so low
+__label__NEGATIVE , soggy potboiler
+__label__NEGATIVE incredibly irritating
+__label__POSITIVE funniest american comedy
+__label__NEGATIVE the worst of tragedies
+__label__POSITIVE smartly
+__label__POSITIVE of promise
+__label__POSITIVE finest kind
+__label__POSITIVE of international acclaim
+__label__NEGATIVE period-piece movie-of-the-week
+__label__NEGATIVE pointless , meandering
+__label__POSITIVE moving
+__label__POSITIVE amazing !
+__label__POSITIVE all the heart
+__label__POSITIVE love and compassion
+__label__POSITIVE take away the controversy
+__label__NEGATIVE so charmless and vacant
+__label__NEGATIVE charmless and vacant
+__label__NEGATIVE disturbing .
+__label__POSITIVE rollicking
+__label__POSITIVE with his talent
+__label__NEGATIVE been shot
+__label__NEGATIVE awkward structure
+__label__POSITIVE strangely tempting
+__label__NEGATIVE garish showcase
+__label__NEGATIVE without being memorable
+__label__NEGATIVE the only surprise
+__label__NEGATIVE a glorified sitcom ,
+__label__POSITIVE saucy
+__label__POSITIVE a great premise
+__label__POSITIVE a crowdpleaser as
+__label__NEGATIVE piffle
+__label__POSITIVE invincible
+__label__POSITIVE laughing at ' variety
+__label__NEGATIVE splatterfests
+__label__NEGATIVE rash
+__label__POSITIVE clear point
+__label__NEGATIVE ugly behavior
+__label__POSITIVE exciting
+__label__POSITIVE highly spirited
+__label__NEGATIVE disguised
+__label__POSITIVE even halfway scary
+__label__POSITIVE elegant ,
+__label__POSITIVE a neat premise
+__label__NEGATIVE be really awful
+__label__POSITIVE generate enough heat
+__label__POSITIVE an art
+__label__NEGATIVE a wannabe comedy
+__label__POSITIVE enjoyment
+__label__NEGATIVE dark places
+__label__POSITIVE broadway
+__label__POSITIVE diverse and astonishingly articulate
+__label__POSITIVE inspires
+__label__NEGATIVE very talented but underutilized
+__label__NEGATIVE foul-mouthed
+__label__NEGATIVE downward
+__label__POSITIVE user-friendly
+__label__NEGATIVE the bland songs
+__label__POSITIVE end all chases
+__label__NEGATIVE have failed
+__label__NEGATIVE paranoia
+__label__POSITIVE recycling
+__label__NEGATIVE a terrible movie
+__label__NEGATIVE creep
+__label__NEGATIVE weighs down
+__label__POSITIVE studios
+__label__NEGATIVE sappy ethnic sleeper
+__label__NEGATIVE obnoxious title character
+__label__POSITIVE that rare documentary
+__label__POSITIVE interesting character
+__label__POSITIVE , i enjoyed .
+__label__NEGATIVE graceless , hackneyed
+__label__POSITIVE roars with leonine power
+__label__POSITIVE is engaged
+__label__NEGATIVE obligatory cheap
+__label__NEGATIVE all the loss
+__label__POSITIVE nifty twists
+__label__POSITIVE through sincerity
+__label__POSITIVE clever pseudo-bio
+__label__POSITIVE in earnest dramaturgy
+__label__NEGATIVE 's quite diverting nonsense
+__label__NEGATIVE blair witch video-cam footage
+__label__POSITIVE does cathartic truth telling
+__label__POSITIVE an intelligently made
+__label__NEGATIVE mundane '70s
+__label__NEGATIVE bad enough
+__label__NEGATIVE too much exploitation and
+__label__NEGATIVE feels draggy
+__label__POSITIVE its charms
+__label__POSITIVE claude
+__label__POSITIVE good taste
+__label__POSITIVE is cinema
+__label__POSITIVE infuses it
+__label__POSITIVE the imagination
+__label__POSITIVE loyalty
+__label__POSITIVE admire
+__label__POSITIVE spy-savvy siblings
+__label__POSITIVE ecological
+__label__POSITIVE awe and affection
+__label__NEGATIVE leaves a bitter taste
+__label__NEGATIVE barely camouflaging grotesque narcissism
+__label__POSITIVE with us
+__label__NEGATIVE absolutely not .
+__label__POSITIVE edge to it .
+__label__POSITIVE this fascinating experiment
+__label__POSITIVE wholly
+__label__POSITIVE best possible
+__label__POSITIVE glamorous
+__label__POSITIVE surprisingly powerful and universal
+__label__POSITIVE good-natured ensemble comedy
+__label__NEGATIVE copycat
+__label__NEGATIVE one strike against it
+__label__POSITIVE does have its charms
+__label__NEGATIVE dullingly
+__label__POSITIVE so larger than life
+__label__NEGATIVE inconceivable
+__label__POSITIVE powerful performance
+__label__NEGATIVE quick-buck
+__label__NEGATIVE murderer
+__label__POSITIVE vibrance and warmth
+__label__POSITIVE intelligent
+__label__NEGATIVE are often a stitch
+__label__NEGATIVE deeply out of place
+__label__NEGATIVE the crap continues .
+__label__NEGATIVE unrealistic
+__label__NEGATIVE , color and cringe
+__label__POSITIVE immensely appealing
+__label__POSITIVE gorgeous
+__label__POSITIVE quite fun
+__label__POSITIVE solid
+__label__POSITIVE creative belly laughs
+__label__NEGATIVE so clumsily sentimental
+__label__POSITIVE are worthwhile
+__label__NEGATIVE a flimsy excuse
+__label__NEGATIVE estranged from reality
+__label__POSITIVE comic elements
+__label__POSITIVE pleasurable
+__label__NEGATIVE third-rate
+__label__POSITIVE sparking debate and
+__label__POSITIVE as fresh
+__label__POSITIVE with passion and attitude
+__label__NEGATIVE trade center tragedy
+__label__POSITIVE amazingly
+__label__POSITIVE george hickenlooper 's
+__label__NEGATIVE needless
+__label__POSITIVE a remarkably cohesive whole
+__label__NEGATIVE junkie
+__label__NEGATIVE empty stud knockabout
+__label__NEGATIVE conspicuous
+__label__POSITIVE sheer goofiness and cameos
+__label__NEGATIVE mothers ,
+__label__POSITIVE refreshing change
+__label__NEGATIVE , ugly , irritating
+__label__NEGATIVE boring talking heads
+__label__NEGATIVE become wearisome
+__label__POSITIVE consistently amusing but
+__label__POSITIVE genuine insight
+__label__POSITIVE damn fine
+__label__POSITIVE unique and inherent
+__label__NEGATIVE no point
+__label__NEGATIVE hardly watchable
+__label__NEGATIVE bad movie
+__label__POSITIVE a barrie good time
+__label__POSITIVE engaging .
+__label__POSITIVE wonderfully sympathetic
+__label__NEGATIVE besotted and obvious
+__label__POSITIVE interesting look
+__label__POSITIVE the best sequel
+__label__NEGATIVE a choppy ending
+__label__NEGATIVE but a tedious picture
+__label__NEGATIVE technically and artistically inept
+__label__POSITIVE warm up to
+__label__POSITIVE dynamic first act
+__label__POSITIVE engaging
+__label__POSITIVE the best of them
+__label__NEGATIVE in this pretentious mess
+__label__POSITIVE impossibly long limbs
+__label__NEGATIVE does n't necessarily
+__label__POSITIVE one-of-a-kind tour de force
+__label__NEGATIVE artistically inept
+__label__NEGATIVE retard
+__label__NEGATIVE mawkish self-parody
+__label__POSITIVE outstanding thrillers
+__label__POSITIVE offers an unexpected window
+__label__NEGATIVE that breaks your heart
+__label__POSITIVE well-balanced
+__label__POSITIVE mopping up
+__label__POSITIVE straight-ahead
+__label__POSITIVE the fantastic and
+__label__NEGATIVE seemingly irreconcilable
+__label__POSITIVE highly cerebral
+__label__NEGATIVE tends to plod
+__label__POSITIVE an action/thriller
+__label__POSITIVE sweet , funny ,
+__label__POSITIVE its namesake proud
+__label__NEGATIVE after a while
+__label__NEGATIVE charmless witch
+__label__POSITIVE deliberately and skillfully uses
+__label__NEGATIVE and unoriginal mess
+__label__POSITIVE funny , sexy
+__label__POSITIVE than indecent proposal
+__label__POSITIVE certainly not without merit
+__label__NEGATIVE obnoxiously
+__label__POSITIVE his audience an epiphany
+__label__POSITIVE its courageousness ,
+__label__POSITIVE the silver screen
+__label__POSITIVE relatively gore-free
+__label__NEGATIVE of political corruption
+__label__POSITIVE elegant and
+__label__POSITIVE subtle and
+__label__NEGATIVE misery
+__label__NEGATIVE ultimately insignificant
+__label__POSITIVE raffish charm
+__label__POSITIVE date-night diversion
+__label__NEGATIVE loss
+__label__POSITIVE screen presence
+__label__POSITIVE art and commerce
+__label__NEGATIVE dime-store psychology
+__label__NEGATIVE incoherent jumble
+__label__POSITIVE a movie with depth
+__label__NEGATIVE their own immaturity
+__label__POSITIVE playfully profound ... and
+__label__POSITIVE meaningful
+__label__POSITIVE epic cinema
+__label__POSITIVE end up laughing
+__label__NEGATIVE a soulless hunk
+__label__POSITIVE conventional but heartwarming
+__label__POSITIVE polished
+__label__POSITIVE perfect movie
+__label__POSITIVE little catch
+__label__NEGATIVE of a frustrating misfire
+__label__POSITIVE get all five
+__label__POSITIVE frosting
+__label__POSITIVE a great film
+__label__POSITIVE fun and enjoyable
+__label__NEGATIVE a nagging sense
+__label__POSITIVE affectionate delight
+__label__POSITIVE freedom
+__label__NEGATIVE the problem with wendigo
+__label__NEGATIVE dreary tale
+__label__POSITIVE very sweet
+__label__NEGATIVE shtick
+__label__POSITIVE dazzling pop entertainment
+__label__NEGATIVE are n't your bailiwick
+__label__POSITIVE entertaining mix
+__label__POSITIVE satisfied
+__label__POSITIVE winning
+__label__POSITIVE fall 's
+__label__POSITIVE pros
+__label__POSITIVE really quite funny
+__label__NEGATIVE exploitative and largely devoid
+__label__POSITIVE terrific setpieces
+__label__POSITIVE painless
+__label__POSITIVE surprising emotional depth
+__label__NEGATIVE seriously bad film
+__label__POSITIVE chilling style
+__label__NEGATIVE robotically
+__label__POSITIVE impressive achievement
+__label__POSITIVE cherish
+__label__NEGATIVE the predictable parent
+__label__NEGATIVE disappointingly thin slice
+__label__NEGATIVE walked away
+__label__POSITIVE touching , sophisticated film
+__label__POSITIVE family dynamics
+__label__POSITIVE to entertain all ages
+__label__POSITIVE the self-image
+__label__POSITIVE decent performances
+__label__NEGATIVE is negated
+__label__POSITIVE eye-popping visuals
+__label__POSITIVE easy , seductive pacing
+__label__POSITIVE are pretty valuable
+__label__POSITIVE truths
+__label__NEGATIVE predictable , manipulative stinker
+__label__POSITIVE works because reno
+__label__POSITIVE delights for adults
+__label__POSITIVE its impressive images
+__label__NEGATIVE life 's ultimate losers
+__label__NEGATIVE is off his game
+__label__POSITIVE a very complex situation
+__label__POSITIVE constant fits of laughter
+__label__NEGATIVE ` ick '
+__label__NEGATIVE boiling point
+__label__POSITIVE beautiful
+__label__POSITIVE joy and pride
+__label__POSITIVE incredible storyline
+__label__NEGATIVE sentiment and withholds delivery
+__label__POSITIVE style and bold colors
+__label__POSITIVE the earmarks
+__label__NEGATIVE oppressively heavy
+__label__POSITIVE really cool
+__label__POSITIVE superhero
+__label__POSITIVE saved from
+__label__POSITIVE remains brightly optimistic ,
+__label__NEGATIVE -- sadly --
+__label__NEGATIVE snide and
+__label__POSITIVE long workout
+__label__POSITIVE brightly colored dreams
+__label__NEGATIVE astonishingly condescending attitude
+__label__POSITIVE brilliant performances
+__label__NEGATIVE you exit the theater
+__label__NEGATIVE slapped together
+__label__POSITIVE the more serious-minded concerns
+__label__NEGATIVE kill the effect
+__label__POSITIVE feel realistic .
+__label__NEGATIVE emotionally vapid
+__label__NEGATIVE into corny sentimentality
+__label__POSITIVE sincerity
+__label__NEGATIVE the cold light
+__label__POSITIVE thoughtful examination
+__label__NEGATIVE but blatantly biased
+__label__NEGATIVE no teeth
+__label__POSITIVE astounds
+__label__NEGATIVE kids = misery
+__label__POSITIVE pointed personalities
+__label__NEGATIVE sham actor workshops and
+__label__NEGATIVE watching it was painful
+__label__NEGATIVE redundancies
+__label__POSITIVE compelling plots
+__label__NEGATIVE crushingly self-indulgent spectacle
+__label__POSITIVE enjoyable feel-good family comedy
+__label__POSITIVE dark , intelligent
+__label__POSITIVE is greatness here .
+__label__POSITIVE soulful , incisive meditation
+__label__NEGATIVE distracts
+__label__NEGATIVE bad soap opera
+__label__POSITIVE artsy and
+__label__POSITIVE poignancy , and intelligence
+__label__POSITIVE the last 15 minutes
+__label__POSITIVE friday the 13th
+__label__POSITIVE relationship and
+__label__POSITIVE it 's pleasant enough
+__label__NEGATIVE a moratorium
+__label__NEGATIVE cumbersome
+__label__NEGATIVE below
+__label__NEGATIVE trying to forget
+__label__POSITIVE holds up well
+__label__POSITIVE unforgettable
+__label__POSITIVE observant of his characters
+__label__POSITIVE that have preceded it
+__label__POSITIVE warm and
+__label__NEGATIVE disney scrape
+__label__POSITIVE smart movie
+__label__NEGATIVE demanding
+__label__POSITIVE remembrance
+__label__POSITIVE purely abstract
+__label__POSITIVE genuine ones
+__label__NEGATIVE characteristically engorged and
+__label__NEGATIVE noticeably less
+__label__POSITIVE amusing and unexpectedly insightful
+__label__NEGATIVE sucks .
+__label__POSITIVE gut-wrenching
+__label__NEGATIVE uncompromising , difficult
+__label__POSITIVE commanding screen presence
+__label__NEGATIVE destruction
+__label__NEGATIVE gore for suspense
+__label__NEGATIVE ludicrous
+__label__POSITIVE this illuminating comedy
+__label__POSITIVE a complicated hero
+__label__POSITIVE high-wattage
+__label__NEGATIVE sword-and-sorcery
+__label__POSITIVE more down-home flavor
+__label__NEGATIVE mild hallucinogenic buzz
+__label__POSITIVE often-hilarious farce
+__label__NEGATIVE yawner
+__label__POSITIVE steven seagal
+__label__NEGATIVE big bloody chomps
+__label__POSITIVE a remarkable and novel
+__label__POSITIVE detailed performances
+__label__POSITIVE an eventual cult classic
+__label__POSITIVE a quietly moving
+__label__POSITIVE championship
+__label__POSITIVE emphasizing
+__label__NEGATIVE is flat
+__label__POSITIVE stylistic austerity and forcefulness
+__label__NEGATIVE mishandled here
+__label__NEGATIVE from the demented mind
+__label__POSITIVE a non-stop funny feast
+__label__POSITIVE wonder of wonders
+__label__NEGATIVE can say
+__label__NEGATIVE this supposedly funny movie
+__label__NEGATIVE flatly
+__label__POSITIVE a terrific role
+__label__POSITIVE 'll cheer
+__label__POSITIVE very ambitious
+__label__POSITIVE guessing plot and
+__label__POSITIVE first-timer
+__label__POSITIVE pubescent
+__label__POSITIVE monumental
+__label__POSITIVE perfect quiet pace
+__label__POSITIVE confidently
+__label__POSITIVE worth sitting through
+__label__POSITIVE despite modest aspirations
+__label__NEGATIVE an unsettling picture
+__label__NEGATIVE no affinity
+__label__POSITIVE clarity and
+__label__POSITIVE stirs us as well
+__label__POSITIVE are remarkable
+__label__POSITIVE some charm and heart
+__label__POSITIVE see all summer
+__label__POSITIVE a captivatingly quirky hybrid
+__label__NEGATIVE in a dysfunctional family
+__label__NEGATIVE some unnecessary parts
+__label__POSITIVE hedonistic creativity
+__label__NEGATIVE cliche pileup
+__label__POSITIVE abridged edition
+__label__NEGATIVE phony
+__label__NEGATIVE slow down
+__label__NEGATIVE slob
+__label__POSITIVE properly spooky film
+__label__POSITIVE appealing couple
+__label__NEGATIVE stolid remake
+__label__NEGATIVE smug and cartoonish
+__label__NEGATIVE is n't funny
+__label__NEGATIVE tabloid
+__label__POSITIVE sets out to entertain
+__label__NEGATIVE misogynist evil
+__label__NEGATIVE an awkwardly garish showcase
+__label__NEGATIVE animation back 30 years
+__label__NEGATIVE scalds like acid
+__label__NEGATIVE poorly staged
+__label__NEGATIVE an incredibly irritating comedy
+__label__POSITIVE the emotional heart
+__label__NEGATIVE too loud and
+__label__NEGATIVE instantly disposable
+__label__POSITIVE skilled
+__label__NEGATIVE weepy
+__label__NEGATIVE is of overwhelming waste
+__label__POSITIVE pretty damned wonderful
+__label__POSITIVE potentially interesting idea
+__label__POSITIVE , heartwarming yarn
+__label__POSITIVE besides its terrific performances
+__label__POSITIVE warmth
+__label__NEGATIVE crass , low-wattage
+__label__POSITIVE cinematic razzle-dazzle
+__label__POSITIVE really tells the tale
+__label__NEGATIVE feels rigged and sluggish
+__label__POSITIVE a pretty woman
+__label__POSITIVE , well-shaped dramas
+__label__POSITIVE perfection
+__label__POSITIVE everlasting
+__label__POSITIVE at least funny
+__label__POSITIVE eloquent language
+__label__POSITIVE real magic , perhaps
+__label__NEGATIVE regret
+__label__POSITIVE , delicate treatment
+__label__POSITIVE emotional edge
+__label__POSITIVE intelligence and intensity
+__label__POSITIVE fresh , unforced naturalism
+__label__POSITIVE absorbing ,
+__label__POSITIVE masterpeice
+__label__NEGATIVE wan
+__label__POSITIVE touching
+__label__POSITIVE own cuteness
+__label__POSITIVE their enthusiasm
+__label__POSITIVE bravura
+__label__NEGATIVE dreary expanse
+__label__POSITIVE one decent performance
+__label__POSITIVE the love of family
+__label__NEGATIVE the edge of sanity
+__label__POSITIVE all the wiggling energy
+__label__POSITIVE special
+__label__POSITIVE in the right place
+__label__NEGATIVE too erotic nor
+__label__POSITIVE enjoyably
+__label__NEGATIVE their story is predictable
+__label__NEGATIVE misses
+__label__POSITIVE ingenue
+__label__NEGATIVE denouement
+__label__NEGATIVE lip-reading
+__label__POSITIVE from a faraway planet
+__label__NEGATIVE late fees
+__label__POSITIVE most virtuous limits
+__label__NEGATIVE a black hole
+__label__NEGATIVE of an underdone potato
+__label__POSITIVE , comfortable
+__label__POSITIVE engaging simplicity
+__label__NEGATIVE a simple premise
+__label__POSITIVE of a sleeper success
+__label__POSITIVE unflappable
+__label__POSITIVE unparalleled
+__label__POSITIVE its own
+__label__POSITIVE ok for a movie
+__label__POSITIVE perfectly executed
+__label__NEGATIVE is tepid and tedious
+__label__POSITIVE a crescendo
+__label__POSITIVE at theaters
+__label__NEGATIVE aggressively silly
+__label__NEGATIVE has fallen
+__label__POSITIVE is fantastic .
+__label__POSITIVE witty expose
+__label__POSITIVE does n't disappoint .
+__label__POSITIVE even-flowing tone
+__label__NEGATIVE lonely and needy
+__label__NEGATIVE dread encountering the most
+__label__POSITIVE potentially incredibly twisting mystery
+__label__POSITIVE hugely accomplished
+__label__NEGATIVE pompous
+__label__POSITIVE service of of others
+__label__POSITIVE of male hustlers
+__label__POSITIVE greatest
+__label__POSITIVE skillfully
+__label__POSITIVE with raw urban humor
+__label__POSITIVE worthy successor
+__label__NEGATIVE putrid
+__label__POSITIVE deliver remarkable performances
+__label__NEGATIVE contrived sequels
+__label__POSITIVE the modern masculine journey
+__label__NEGATIVE insufferable ball
+__label__POSITIVE held my attention
+__label__POSITIVE lushness
+__label__POSITIVE car to drive through
+__label__NEGATIVE squanders chan 's uniqueness
+__label__POSITIVE visually stunning rumination
+__label__POSITIVE directorial touch
+__label__POSITIVE the parents
+__label__POSITIVE together familiar themes
+__label__POSITIVE relative
+__label__NEGATIVE as artificial and soulless
+__label__NEGATIVE dysfunctional drama
+__label__POSITIVE redemption
+__label__POSITIVE have fun
+__label__NEGATIVE rhetoric and cliché
+__label__POSITIVE you wanting more
+__label__NEGATIVE but mush-hearted .
+__label__POSITIVE a comic fan
+__label__POSITIVE first-class , natural acting
+__label__POSITIVE entertaining film
+__label__POSITIVE cerebral and cinemantic flair
+__label__NEGATIVE in frustration
+__label__POSITIVE talented
+__label__POSITIVE enlightenment
+__label__NEGATIVE ultimately lifeless
+__label__POSITIVE turned this
+__label__NEGATIVE the same old garbage
+__label__NEGATIVE no chemistry or
+__label__NEGATIVE distinctly minor effort
+__label__POSITIVE opposed to the manifesto
+__label__NEGATIVE entirely infantile
+__label__POSITIVE inventive , fun
+__label__POSITIVE rounded and revealing overview
+__label__POSITIVE precious
+__label__NEGATIVE direct-to-video/dvd category
+__label__POSITIVE power and grace
+__label__NEGATIVE is wholly unconvincing
+__label__POSITIVE perfectly pitched web
+__label__POSITIVE theater
+__label__NEGATIVE the worst movie
+__label__POSITIVE as thought-provoking
+__label__POSITIVE golden
+__label__NEGATIVE that things fall apart
+__label__POSITIVE laugh
+__label__POSITIVE a chocolate
+__label__NEGATIVE under our skin
+__label__POSITIVE otherwise excellent
+__label__NEGATIVE an uneasy marriage
+__label__POSITIVE be growing
+__label__POSITIVE nalin
+__label__POSITIVE indulgent
+__label__NEGATIVE disturbingly
+__label__POSITIVE yes .
+__label__POSITIVE a remarkable movie
+__label__NEGATIVE of puerile
+__label__NEGATIVE guilt-suffused melodrama
+__label__NEGATIVE re-voiced version
+__label__POSITIVE refresh our souls
+__label__POSITIVE sharp and quick documentary
+__label__POSITIVE extraordinarily talented
+__label__POSITIVE perfect show
+__label__POSITIVE have fun with it
+__label__NEGATIVE flaws igby
+__label__NEGATIVE unexpected blast
+__label__POSITIVE episode
+__label__POSITIVE feel absolutely earned
+__label__NEGATIVE audacious-impossible
+__label__POSITIVE improvement
+__label__POSITIVE intriguing and stylish .
+__label__POSITIVE is attractive
+__label__NEGATIVE for an unfocused screenplay
+__label__NEGATIVE ca n't stand
+__label__NEGATIVE substitutable
+__label__POSITIVE fluidity and sense
+__label__POSITIVE powder blues
+__label__NEGATIVE boorish
+__label__NEGATIVE some problems
+__label__POSITIVE the big summer movies
+__label__NEGATIVE ugly
+__label__POSITIVE gives ample opportunity
+__label__NEGATIVE 's never as solid
+__label__POSITIVE more emotional
+__label__POSITIVE pizazz
+__label__NEGATIVE not-so-bright mother and daughter
+__label__NEGATIVE cliché-laden screenplay
+__label__POSITIVE best irish sense
+__label__NEGATIVE odd and pixilated
+__label__POSITIVE family drama
+__label__POSITIVE originality
+__label__POSITIVE is a great yarn
+__label__NEGATIVE cranky adults
+__label__POSITIVE eyes
+__label__POSITIVE her skin
+__label__NEGATIVE completely forgettable
+__label__POSITIVE compulsively watchable
+__label__POSITIVE best ensemble casts
+__label__NEGATIVE tepid and tedious
+__label__POSITIVE flashy editing style
+__label__POSITIVE a feel-good movie that
+__label__NEGATIVE the screen in frustration
+__label__NEGATIVE drag on
+__label__POSITIVE worked wonders
+__label__NEGATIVE self-centered
+__label__NEGATIVE an abyss
+__label__NEGATIVE of scorn
+__label__POSITIVE swings and jostles
+__label__NEGATIVE cliche
+__label__NEGATIVE milquetoast
+__label__POSITIVE enjoyed .
+__label__POSITIVE good-natured and
+__label__POSITIVE romance-novel
+__label__POSITIVE a spectacular completion one
+__label__NEGATIVE crassly
+__label__POSITIVE so interesting
+__label__POSITIVE sharp comedy ,
+__label__POSITIVE holds interest
+__label__POSITIVE the mark
+__label__NEGATIVE recycled
+__label__POSITIVE writings to perform
+__label__POSITIVE status
+__label__POSITIVE a more down-home flavor
+__label__POSITIVE yet engrossing piece
+__label__POSITIVE pleasure or
+__label__POSITIVE already relayed by superb
+__label__POSITIVE generous and deep
+__label__NEGATIVE lackluster script
+__label__NEGATIVE despair
+__label__POSITIVE wonderfully warm human drama
+__label__POSITIVE powerful look
+__label__POSITIVE , retro uplifter .
+__label__POSITIVE a memorable experience
+__label__POSITIVE effectiveness
+__label__POSITIVE fabulously funny
+__label__POSITIVE crowd-pleasing goals
+__label__POSITIVE solid '
+__label__POSITIVE uplifting and moving
+__label__POSITIVE make a big splash
+__label__NEGATIVE never quite
+__label__NEGATIVE exceedingly dull
+__label__POSITIVE adrenalized
+__label__POSITIVE more than a
+__label__POSITIVE spiced
+__label__NEGATIVE thoroughly dull
+__label__POSITIVE a minor miracle
+__label__NEGATIVE a grating
+__label__POSITIVE triumphant
+__label__POSITIVE feels universal
+__label__NEGATIVE as two-day old porridge
+__label__POSITIVE about as enjoyable
+__label__POSITIVE true inspiration
+__label__POSITIVE funny
+__label__POSITIVE is as thought-provoking
+__label__POSITIVE with daring and verve
+__label__NEGATIVE listless direction
+__label__POSITIVE 'll love this movie
+__label__POSITIVE with wisdom and emotion
+__label__NEGATIVE cross-dressing
+__label__POSITIVE lovefest
+__label__POSITIVE great help
+__label__POSITIVE honest emotions
+__label__POSITIVE quirky and fearless ability
+__label__POSITIVE with stunning animation
+__label__NEGATIVE graceless and
+__label__POSITIVE entertaining and
+__label__POSITIVE crudup 's screen presence
+__label__NEGATIVE the annoyance
+__label__POSITIVE skilled actors
+__label__POSITIVE an interesting exercise
+__label__POSITIVE delirious fun .
+__label__POSITIVE fascinating little tale
+__label__NEGATIVE , soap opera-ish dialogue
+__label__POSITIVE imaginable
+__label__POSITIVE well-done supernatural thriller
+__label__POSITIVE sweet time building
+__label__POSITIVE life affirming
+__label__POSITIVE ask for a raise
+__label__NEGATIVE frighten and
+__label__POSITIVE is fluid and quick
+__label__POSITIVE eloquent film
+__label__POSITIVE ballsy and
+__label__POSITIVE easy to watch
+__label__POSITIVE perform
+__label__POSITIVE by an esteemed writer-actor
+__label__POSITIVE truly edgy --
+__label__NEGATIVE the movie is amateurish
+__label__POSITIVE a treasure chest
+__label__NEGATIVE like one long
+__label__NEGATIVE extremely languorous rhythms
+__label__NEGATIVE the same blueprint
+__label__POSITIVE superb
+__label__POSITIVE enticing prospect
+__label__POSITIVE treats us
+__label__POSITIVE non-stop funny feast
+__label__POSITIVE an imaginatively mixed cast
+__label__NEGATIVE at a tough-man contest
+__label__POSITIVE is a career-defining revelation
+__label__POSITIVE hitchcock 's
+__label__POSITIVE will probably
+__label__NEGATIVE too placid
+__label__POSITIVE its best moments
+__label__NEGATIVE uncompelling the movie
+__label__POSITIVE engaging criminal
+__label__POSITIVE seemingly
+__label__POSITIVE sexy and
+__label__POSITIVE the worthy successor
+__label__NEGATIVE skip the film and
+__label__POSITIVE rich historical subject
+__label__POSITIVE , funny
+__label__POSITIVE exuberance
+__label__POSITIVE with talent
+__label__NEGATIVE be disappointed
+__label__NEGATIVE reasonably creative eighth-grader
+__label__POSITIVE stands out
+__label__POSITIVE 's endgame
+__label__POSITIVE 's a masterpiece .
+__label__NEGATIVE misogyny and unprovoked violence
+__label__POSITIVE tender movements
+__label__NEGATIVE its worst
+__label__NEGATIVE of minor shortcomings
+__label__POSITIVE extravagant
+__label__NEGATIVE understatement
+__label__NEGATIVE the abyss
+__label__POSITIVE wondrously creative
+__label__POSITIVE worth
+__label__POSITIVE hollywood road
+__label__NEGATIVE merely pretentious
+__label__POSITIVE novel charm
+__label__POSITIVE wickedly funny and
+__label__POSITIVE jarring , new-agey tone
+__label__POSITIVE cool , composed delivery
+__label__NEGATIVE own most damning censure
+__label__POSITIVE of the finest kind
+__label__NEGATIVE is so insanely dysfunctional
+__label__NEGATIVE distressingly rote
+__label__NEGATIVE the demented mind
+__label__POSITIVE wickedly funny ,
+__label__NEGATIVE notice the flaws
+__label__NEGATIVE no character ,
+__label__POSITIVE such a good job
+__label__POSITIVE in form
+__label__NEGATIVE been much better
+__label__NEGATIVE cheat
+__label__POSITIVE of the greatest films
+__label__POSITIVE that seems tailor
+__label__POSITIVE hitchcockian
+__label__NEGATIVE high humidity
+__label__NEGATIVE a mediocre movie
+__label__POSITIVE with a big impact
+__label__NEGATIVE every bit as imperious
+__label__NEGATIVE direct-to-video
+__label__POSITIVE solutions
+__label__NEGATIVE no real sense
+__label__NEGATIVE untalented
+__label__POSITIVE lusty ,
+__label__NEGATIVE deeply biased ,
+__label__NEGATIVE fizzability
+__label__POSITIVE the perfectly pitched web
+__label__POSITIVE ever so gracefully
+__label__NEGATIVE german jewish refugees
+__label__NEGATIVE befuddled
+__label__NEGATIVE pushiness and decibel
+__label__NEGATIVE whiny
+__label__NEGATIVE unrewarding collar
+__label__POSITIVE pokes , provokes ,
+__label__NEGATIVE authentically vague
+__label__NEGATIVE overinflated
+__label__POSITIVE magnificent jackie chan
+__label__NEGATIVE a seven rip-off
+__label__NEGATIVE torn apart
+__label__POSITIVE classical dramatic animated feature
+__label__NEGATIVE pretention
+__label__POSITIVE a worthwhile documentary
+__label__POSITIVE summery
+__label__POSITIVE titular
+__label__NEGATIVE ear-splitting
+__label__POSITIVE better entertainment
+__label__POSITIVE painstaking
+__label__POSITIVE detective story
+__label__NEGATIVE playstation cocktail
+__label__NEGATIVE flat dialogue
+__label__NEGATIVE is impenetrable and dull
+__label__NEGATIVE drama
+__label__NEGATIVE cheesier
+__label__POSITIVE fanciful ,
+__label__NEGATIVE of obligatory cheap
+__label__POSITIVE the film works
+__label__NEGATIVE every aggrieved father cliché
+__label__POSITIVE the film ) works
+__label__NEGATIVE ignorant
+__label__NEGATIVE more bluster
+__label__POSITIVE does best
+__label__NEGATIVE journalistically dubious ,
+__label__POSITIVE better after foster
+__label__POSITIVE golden book
+__label__POSITIVE rooted
+__label__NEGATIVE cardboard characters and performers
+__label__NEGATIVE inevitable and
+__label__POSITIVE equally engrossing
+__label__POSITIVE a heaven
+__label__NEGATIVE to stop watching
+__label__POSITIVE animation work
+__label__POSITIVE do justice
+__label__POSITIVE is extremely funny
+__label__NEGATIVE hide a weak script
+__label__POSITIVE charms are immediately apparent
+__label__POSITIVE looks genuinely pretty
+__label__NEGATIVE substandard
+__label__NEGATIVE old
+__label__NEGATIVE grotesquely
+__label__NEGATIVE rubber-face routine
+__label__POSITIVE the talented cast generally
+__label__POSITIVE enough freshness
+__label__POSITIVE levity
+__label__NEGATIVE , haphazard theatrical release
+__label__NEGATIVE laugh at how bad
+__label__POSITIVE the last metro )
+__label__NEGATIVE embarrassment and
+__label__NEGATIVE as shameful
+__label__NEGATIVE fidel castro
+__label__POSITIVE unbelievable
+__label__NEGATIVE overwhelming
+__label__NEGATIVE and totally disorientated
+__label__POSITIVE wildly entertaining
+__label__NEGATIVE unfunny wannabe
+__label__NEGATIVE runs out of ideas
+__label__NEGATIVE irritates
+__label__POSITIVE make it worth watching
+__label__POSITIVE odd but ultimately satisfying
+__label__NEGATIVE a terrible movie ,
+__label__NEGATIVE the excitement is missing
+__label__POSITIVE marvelously
+__label__POSITIVE brilliant touches
+__label__NEGATIVE contrived , unmotivated ,
+__label__POSITIVE funny and wise
+__label__NEGATIVE confused
+__label__NEGATIVE difficult to fathom
+__label__POSITIVE comedy and
+__label__POSITIVE the movie 's progression
+__label__NEGATIVE bogging down
+__label__NEGATIVE morally bankrupt
+__label__NEGATIVE a bittersweet contemporary comedy
+__label__NEGATIVE is strictly routine .
+__label__NEGATIVE futility
+__label__NEGATIVE refuses
+__label__POSITIVE in grand passion
+__label__NEGATIVE , worse
+__label__POSITIVE exceptionally good idea
+__label__POSITIVE the tragedy beneath it
+__label__POSITIVE sweet gentle jesus
+__label__POSITIVE with verve
+__label__POSITIVE a complex story
+__label__NEGATIVE slow scenes
+__label__POSITIVE delectable
+__label__POSITIVE is funny
+__label__NEGATIVE loud , chaotic and
+__label__NEGATIVE butterfingered
+__label__NEGATIVE and mainly unfunny
+__label__POSITIVE earthy
+__label__NEGATIVE dismal
+__label__POSITIVE an intoxicating experience .
+__label__POSITIVE the gorgeous locales and
+__label__POSITIVE reign
+__label__POSITIVE of the stand-up comic
+__label__POSITIVE oscar caliber cast
+__label__NEGATIVE lacked any
+__label__NEGATIVE ignored it
+__label__NEGATIVE `` abandon ''
+__label__POSITIVE an asian landscape painting
+__label__POSITIVE scarily funny
+__label__POSITIVE thoughtful what-if
+__label__POSITIVE it magic
+__label__NEGATIVE that already-shallow
+__label__POSITIVE without intent
+__label__POSITIVE of interest
+__label__NEGATIVE dreary
+__label__POSITIVE breathes life
+__label__POSITIVE one oscar nomination
+__label__NEGATIVE raunch
+__label__POSITIVE in your heart
+__label__POSITIVE a temporal inquiry
+__label__POSITIVE striking villains
+__label__POSITIVE better
+__label__POSITIVE career-defining revelation
+__label__POSITIVE is dazzling
+__label__POSITIVE talent
+__label__NEGATIVE hopkins/rock collision
+__label__NEGATIVE this strenuously unconventional movie
+__label__POSITIVE pleasing way
+__label__POSITIVE star script
+__label__POSITIVE humor wry
+__label__POSITIVE serious and thoughtful .
+__label__NEGATIVE this forgettable effort
+__label__POSITIVE influence
+__label__NEGATIVE tortured husband
+__label__NEGATIVE war
+__label__POSITIVE restrained and subtle
+__label__POSITIVE excellent sequel .
+__label__POSITIVE offer audiences
+__label__NEGATIVE an underdone potato
+__label__POSITIVE well together
+__label__POSITIVE old-fashioned values
+__label__POSITIVE has a brain
+__label__POSITIVE a neat trick
+__label__POSITIVE well-written
+__label__POSITIVE , astonish and entertain
+__label__POSITIVE be quirky and funny
+__label__NEGATIVE entirely improvised
+__label__NEGATIVE rollerball left us cold
+__label__NEGATIVE where nothing 's happening
+__label__POSITIVE as sexy
+__label__NEGATIVE dramatic nor
+__label__NEGATIVE 'd need a shower
+__label__NEGATIVE excruciating demonstration
+__label__POSITIVE high-wattage brainpower
+__label__POSITIVE eager to please
+__label__POSITIVE the historical , philosophical
+__label__POSITIVE christmas spirit
+__label__POSITIVE same sledgehammer appeal
+__label__NEGATIVE reduced to direct-to-video irrelevancy
+__label__POSITIVE its relaxed ,
+__label__POSITIVE a live-wire film that
+__label__POSITIVE an unseemly pleasure
+__label__POSITIVE pleasingly upbeat
+__label__NEGATIVE pig
+__label__POSITIVE having so much fun
+__label__NEGATIVE the tortured husband
+__label__NEGATIVE the worst thing
+__label__POSITIVE will leave you thinking
+__label__POSITIVE encouraging thought
+__label__POSITIVE clever
+__label__POSITIVE stand out
+__label__NEGATIVE sinuously plotted
+__label__POSITIVE animation enthusiasts
+__label__NEGATIVE pitifully
+__label__NEGATIVE arcane area
+__label__NEGATIVE grand fart
+__label__POSITIVE is good ,
+__label__NEGATIVE wreckage
+__label__POSITIVE strong and confident work
+__label__NEGATIVE a droll ,
+__label__POSITIVE catches the chaotic horror
+__label__NEGATIVE to a dumb story
+__label__POSITIVE very enjoyable
+__label__POSITIVE powerfully evocative
+__label__NEGATIVE through crap like this
+__label__POSITIVE seeking christian-themed fun
+__label__POSITIVE an unforgettable
+__label__POSITIVE extravagantly
+__label__POSITIVE -- and deeply appealing
+__label__POSITIVE perfect
+__label__POSITIVE to perform entertaining tricks
+__label__NEGATIVE wildly overproduced
+__label__POSITIVE such a companionable couple
+__label__POSITIVE gloriously
+__label__POSITIVE re-invents himself
+__label__POSITIVE stand-up magic
+__label__POSITIVE humor and technological finish
+__label__NEGATIVE bloated effects
+__label__NEGATIVE by anything on display
+__label__POSITIVE is to be mesmerised
+__label__NEGATIVE may not
+__label__POSITIVE feel ` stoked
+__label__POSITIVE a pleasing way
+__label__POSITIVE inspiring , ironic ,
+__label__POSITIVE really funny movie
+__label__NEGATIVE crass , contrived sequels
+__label__POSITIVE her feature film
+__label__NEGATIVE its rather routine script
+__label__POSITIVE and intermittently hilarious
+__label__POSITIVE rap and r&b names
+__label__POSITIVE jeff 's ) gorgeous
+__label__NEGATIVE miscalculation
+__label__NEGATIVE coupling disgracefully written dialogue
+__label__NEGATIVE cinematic car wreck
+__label__POSITIVE written for no one
+__label__NEGATIVE better video-game-based flicks ,
+__label__NEGATIVE largely unfulfilling
+__label__POSITIVE earnestness remarkably well
+__label__NEGATIVE both deserve better .
+__label__POSITIVE as its larger themes
+__label__POSITIVE hyper-realistic
+__label__NEGATIVE is losing his touch
+__label__POSITIVE so unabashedly hopeful
+__label__POSITIVE unforced continuation
+__label__NEGATIVE ethnic cleansing
+__label__POSITIVE the perfect material
+__label__POSITIVE sustains it beautifully
+__label__NEGATIVE to offend
+__label__NEGATIVE grumbling
+__label__NEGATIVE self-indulgent and
+__label__POSITIVE their luster
+__label__NEGATIVE twitchy acting
+__label__POSITIVE is infectious .
+__label__POSITIVE to care about them
+__label__POSITIVE is nicely shot ,
+__label__POSITIVE plotting
+__label__NEGATIVE collapses
+__label__POSITIVE wisdom
+__label__POSITIVE brilliant movie
+__label__POSITIVE showing off his doctorate
+__label__POSITIVE a delightful comedy
+__label__POSITIVE a patient viewer
+__label__POSITIVE sharply
+__label__NEGATIVE sometimes dry
+__label__NEGATIVE far less sophisticated and
+__label__NEGATIVE skip this dreck ,
+__label__POSITIVE , compelling
+__label__POSITIVE significantly better
+__label__NEGATIVE it 's so bad
+__label__POSITIVE greatly
+__label__POSITIVE intriguing species
+__label__POSITIVE of the amazing spider-man
+__label__NEGATIVE feeble comedy .
+__label__POSITIVE oh-so-important
+__label__POSITIVE casual and fun
+__label__POSITIVE is worth searching out
+__label__POSITIVE laughed at
+__label__POSITIVE funniest and
+__label__POSITIVE one of its strengths
+__label__POSITIVE embracing
+__label__POSITIVE beautiful to watch and
+__label__POSITIVE photographic marvel
+__label__POSITIVE brazil-like , hyper-real satire
+__label__POSITIVE thank
+__label__POSITIVE a beautiful food entrée
+__label__POSITIVE propelled by the acting
+__label__POSITIVE another masterpiece
+__label__POSITIVE daring
+__label__NEGATIVE well to cram earplugs
+__label__POSITIVE heralds something special
+__label__POSITIVE samuel l. jackson
+__label__POSITIVE submerging
+__label__NEGATIVE a historic scandal
+__label__NEGATIVE nausea
+__label__POSITIVE its execution and skill
+__label__POSITIVE stylish and
+__label__POSITIVE some serious suspense
+__label__NEGATIVE a bland animated sequel
+__label__POSITIVE zealand coming-of-age movie
+__label__POSITIVE the hearts and minds
+__label__POSITIVE more than ably
+__label__POSITIVE is a monumental achievement
+__label__POSITIVE more graceful way
+__label__POSITIVE perfect material
+__label__POSITIVE beautiful paean
+__label__POSITIVE the wisdom and humor
+__label__NEGATIVE b movies
+__label__POSITIVE is god
+__label__POSITIVE gripping humanity
+__label__POSITIVE bound
+__label__POSITIVE horror/action hybrid
+__label__NEGATIVE often overwritten
+__label__NEGATIVE lacks balance
+__label__POSITIVE intricate plot
+__label__NEGATIVE sanctimonious , self-righteous and
+__label__POSITIVE surprisingly touching
+__label__POSITIVE amazing
+__label__POSITIVE and dog lovers
+__label__NEGATIVE no surprises
+__label__NEGATIVE lonely
+__label__POSITIVE captivates
+__label__POSITIVE those words
+__label__POSITIVE a pretty decent kid-pleasing
+__label__POSITIVE xmas
+__label__NEGATIVE a cheap scam
+__label__POSITIVE writer-director david jacobson
+__label__NEGATIVE largely devoid
+__label__NEGATIVE to cheesier to cheesiest
+__label__POSITIVE of heartfelt performances
+__label__NEGATIVE bland murder-on-campus
+__label__NEGATIVE is off .
+__label__NEGATIVE 's impossible to care
+__label__NEGATIVE a peculiar malaise
+__label__POSITIVE a great one
+__label__NEGATIVE the crap
+__label__NEGATIVE sodden and glum
+__label__POSITIVE glued
+__label__POSITIVE emotionally and narratively complex
+__label__POSITIVE an appealing couple --
+__label__NEGATIVE the weird thing
+__label__POSITIVE an american
+__label__NEGATIVE the rope snaps
+__label__POSITIVE fanciful drama
+__label__POSITIVE easy to like
+__label__NEGATIVE talkiness
+__label__POSITIVE optimism
+__label__NEGATIVE woozy quality
+__label__POSITIVE goes by quickly
+__label__NEGATIVE of 2-day old coke
+__label__POSITIVE worldly-wise and very funny
+__label__NEGATIVE luridly graphic and
+__label__POSITIVE visual charm
+__label__POSITIVE ingenious fun
+__label__NEGATIVE laced
+__label__POSITIVE lovely and
+__label__POSITIVE from a woodland stream
+__label__NEGATIVE blah
+__label__NEGATIVE unlikeable
+__label__NEGATIVE flawed and
+__label__POSITIVE schütte 's dramatic snapshot
+__label__POSITIVE consistently amusing
+__label__POSITIVE technical proficiency
+__label__POSITIVE the perfect festival film
+__label__NEGATIVE a tap-dancing rhino
+__label__POSITIVE standout
+__label__NEGATIVE spits out
+__label__POSITIVE intelligent observations
+__label__NEGATIVE unshapely look
+__label__POSITIVE funny ,
+__label__NEGATIVE really , really stupid
+__label__POSITIVE luminous interviews
+__label__POSITIVE wisdom and emotion
+__label__POSITIVE few nice twists
+__label__POSITIVE solid base
+__label__NEGATIVE corny television
+__label__NEGATIVE 's not entirely memorable
+__label__NEGATIVE is even worse
+__label__NEGATIVE so stupid
+__label__POSITIVE most wondrously gifted artists
+__label__NEGATIVE rushed ,
+__label__POSITIVE perfectly entertaining summer diversion
+__label__POSITIVE pleasing verisimilitude
+__label__NEGATIVE too safe
+__label__POSITIVE likely to find compelling
+__label__NEGATIVE its critical backlash
+__label__NEGATIVE rather simplistic
+__label__NEGATIVE war-weary marine
+__label__NEGATIVE skip this dreck
+__label__POSITIVE a few laughs
+__label__POSITIVE skillfully assembled ,
+__label__POSITIVE own ambitious goals
+__label__POSITIVE unusual homes
+__label__NEGATIVE is this so boring
+__label__NEGATIVE about death
+__label__POSITIVE , brilliant and macabre
+__label__NEGATIVE abysmally
+__label__NEGATIVE no laughs .
+__label__NEGATIVE sketchiest
+__label__POSITIVE for some major alterations
+__label__NEGATIVE induces headaches
+__label__NEGATIVE failed
+__label__POSITIVE superbly
+__label__NEGATIVE less bling-bling
+__label__NEGATIVE exaggerated action
+__label__NEGATIVE 's too loud
+__label__POSITIVE warmth and
+__label__POSITIVE emerge with unimpeachable clarity
+__label__POSITIVE absurdist wit
+__label__NEGATIVE even worse
+__label__NEGATIVE ick
+__label__POSITIVE cliffhanger
+__label__POSITIVE convincing portrayal
+__label__POSITIVE sports extravaganza
+__label__POSITIVE piercing
+__label__NEGATIVE dark to be decipherable
+__label__POSITIVE prove diverting enough
+__label__POSITIVE recommended --
+__label__POSITIVE about memory and regret
+__label__NEGATIVE cold blanket
+__label__NEGATIVE being neither
+__label__NEGATIVE the wrong things
+__label__POSITIVE rich with period minutiae
+__label__NEGATIVE no rooting interest
+__label__NEGATIVE a bit repetitive
+__label__POSITIVE meaningful cinema
+__label__POSITIVE efficient
+__label__NEGATIVE sounds like horrible poetry
+__label__NEGATIVE well-crafted letdown .
+__label__POSITIVE idol
+__label__POSITIVE trashy fun
+__label__POSITIVE tasty performance
+__label__NEGATIVE big fat pain .
+__label__NEGATIVE far-flung
+__label__NEGATIVE the hackneyed story
+__label__POSITIVE quiet , confident
+__label__NEGATIVE did n't care .
+__label__NEGATIVE bad and
+__label__POSITIVE joyful
+__label__POSITIVE nice little story
+__label__NEGATIVE a confusing drudgery .
+__label__NEGATIVE confusing
+__label__NEGATIVE manipulative
+__label__NEGATIVE a limp eddie murphy
+__label__POSITIVE impress about e.t.
+__label__POSITIVE christian love
+__label__NEGATIVE too clear
+__label__POSITIVE are simply dazzling ,
+__label__POSITIVE raw urban humor
+__label__POSITIVE a quaint
+__label__NEGATIVE most frightening
+__label__NEGATIVE its own clichés
+__label__NEGATIVE bargain-basement special
+__label__POSITIVE in amusing us
+__label__NEGATIVE of continuity errors
+__label__POSITIVE rock solid family fun
+__label__POSITIVE wonderfully warm
+__label__POSITIVE , potent exploration
+__label__POSITIVE its writer-director 's
+__label__NEGATIVE skip the film and
+__label__POSITIVE it is
+__label__POSITIVE bits funnier
+__label__POSITIVE the enticing prospect
+__label__NEGATIVE is laughingly
+__label__POSITIVE enlivens
+__label__NEGATIVE very stupid and annoying
+__label__NEGATIVE a better satiric target
+__label__NEGATIVE this somewhat tired premise
+__label__NEGATIVE hard-sell image-mongering
+__label__NEGATIVE value whatsoever
+__label__NEGATIVE dopey
+__label__NEGATIVE almost as offensive
+__label__POSITIVE captain
+__label__NEGATIVE precious little of either
+__label__POSITIVE extraordinarily
+__label__POSITIVE be delightfully compatible here
+__label__NEGATIVE interminably bleak
+__label__NEGATIVE naïveté and arbitrary
+__label__POSITIVE oddly fascinating depiction
+__label__NEGATIVE lack-of-attention span
+__label__NEGATIVE a bad movie that
+__label__POSITIVE reasonable
+__label__POSITIVE in the knowledge imparted
+__label__POSITIVE with its wry observations
+__label__POSITIVE sweetest thing
+__label__NEGATIVE it 's wasted yours
+__label__NEGATIVE like done-to-death material
+__label__POSITIVE his life-altering experiences
+__label__POSITIVE good enough
+__label__POSITIVE an enjoyable
+__label__NEGATIVE metaphysical claptrap
+__label__NEGATIVE sad , sick sight
+__label__POSITIVE make interesting
+__label__NEGATIVE derivativeness
+__label__POSITIVE true to his principles
+__label__NEGATIVE particularly joyless , and
+__label__POSITIVE 's awfully entertaining
+__label__POSITIVE will turn out okay
+__label__POSITIVE a guarantee
+__label__NEGATIVE uselessly redundant and
+__label__POSITIVE occasional charms
+__label__NEGATIVE stale material
+__label__POSITIVE , rapid-fire delivery
+__label__POSITIVE feature-length
+__label__POSITIVE eyeballs
+__label__NEGATIVE reading lines
+__label__POSITIVE heard before
+__label__POSITIVE proves to be sensational
+__label__POSITIVE a frighteningly fascinating contradiction
+__label__POSITIVE bracing truth
+__label__NEGATIVE critical backlash
+__label__POSITIVE salvation and good intentions
+__label__NEGATIVE dismally
+__label__POSITIVE best
+__label__NEGATIVE undisciplined
+__label__NEGATIVE a kilt
+__label__NEGATIVE nosedive
+__label__POSITIVE perfectly
+__label__POSITIVE unfolds as one
+__label__POSITIVE engages us
+__label__NEGATIVE , inexplicable and unpleasant
+__label__POSITIVE scenic shots
+__label__POSITIVE beautiful
+__label__POSITIVE all the stronger
+__label__NEGATIVE spectacular belly flops
+__label__NEGATIVE whimper
+__label__POSITIVE stay positive
+__label__NEGATIVE begging for attention
+__label__POSITIVE is priceless
+__label__NEGATIVE torture and self-mutilation
+__label__POSITIVE hit .
+__label__POSITIVE glinting charm
+__label__NEGATIVE cinematic poo .
+__label__POSITIVE infatuated
+__label__POSITIVE delivered with such conviction
+__label__POSITIVE good dialogue
+__label__POSITIVE nerds
+__label__NEGATIVE the corniest
+__label__POSITIVE ironic cultural satire
+__label__POSITIVE passive-aggressive psychology
+__label__POSITIVE so much more
+__label__POSITIVE to feel good about
+__label__POSITIVE of his best-known creation
+__label__POSITIVE a full-length classic
+__label__POSITIVE inquisitive film
+__label__POSITIVE of extravagant
+__label__POSITIVE a bigger-name cast
+__label__NEGATIVE existential suffering
+__label__NEGATIVE thoroughly overbearing
+__label__NEGATIVE live-action cartoon
+__label__POSITIVE hilarious and sad
+__label__NEGATIVE is so clumsily sentimental
+__label__POSITIVE be cutting-edge indie filmmaking
+__label__NEGATIVE wal-mart budget
+__label__NEGATIVE muy loco
+__label__POSITIVE , solid storytelling .
+__label__POSITIVE is prime escapist fare
+__label__NEGATIVE the pay-off is negligible
+__label__POSITIVE this engaging film
+__label__POSITIVE more successful
+__label__NEGATIVE playwriting 101 premise
+__label__POSITIVE goodwill
+__label__POSITIVE the most brilliant work
+__label__POSITIVE a romance this smart
+__label__POSITIVE well-meaning
+__label__POSITIVE plenty of entertainment value
+__label__NEGATIVE pouty-lipped poof
+__label__NEGATIVE un-bear-able
+__label__NEGATIVE limpid and
+__label__POSITIVE talk about for hours
+__label__POSITIVE raucously
+__label__POSITIVE psychological case study
+__label__POSITIVE family responsibility and care
+__label__NEGATIVE he or anyone else
+__label__NEGATIVE insecure about its capacity
+__label__POSITIVE idiosyncratic humor
+__label__NEGATIVE sickeningly savage
+__label__POSITIVE to unexpected heights
+__label__NEGATIVE every sequel you skip
+__label__POSITIVE earnest homage
+__label__NEGATIVE excuse for a film
+__label__NEGATIVE ultimately empty examination
+__label__POSITIVE marvelous performance
+__label__POSITIVE everyone 's
+__label__NEGATIVE so many merchandised-to-the-max movies
+__label__NEGATIVE a whole heap
+__label__POSITIVE )
+__label__POSITIVE built for controversy
+__label__POSITIVE a powerful 1957 drama
+__label__NEGATIVE unchanged dullard
+__label__NEGATIVE oddest
+__label__NEGATIVE yawner .
+__label__NEGATIVE one-sidedness
+__label__NEGATIVE pollution
+__label__NEGATIVE about identity and alienation
+__label__POSITIVE the most surprising thing
+__label__NEGATIVE a complete shambles
+__label__NEGATIVE of psychopathic pulp
+__label__POSITIVE even more remarkable
+__label__POSITIVE personable , amusing cast
+__label__POSITIVE to be a compelling
+__label__POSITIVE impeccable comic skill
+__label__POSITIVE the gorgeous piano and
+__label__POSITIVE consistent embracing humanity
+__label__POSITIVE this beautifully animated epic
+__label__POSITIVE but quietly effective retelling
+__label__POSITIVE is just the point
+__label__POSITIVE coherent
+__label__NEGATIVE transvestite comedy
+__label__NEGATIVE soggy potboiler
+__label__POSITIVE dialog between realistic characters
+__label__POSITIVE an impressive style
+__label__POSITIVE compellingly watchable .
+__label__POSITIVE impressive and
+__label__POSITIVE strikingly devious
+__label__POSITIVE rich with human events
+__label__POSITIVE utterly absorbing
+__label__NEGATIVE careless and unfocused
+__label__POSITIVE inspired
+__label__POSITIVE realistically
+__label__NEGATIVE war
+__label__POSITIVE vibrantly colored
+__label__POSITIVE wonderful acting clinic
+__label__POSITIVE life-affirming message
+__label__POSITIVE was utterly charming
+__label__NEGATIVE his pleas
+__label__NEGATIVE a shame
+__label__NEGATIVE even more damning --
+__label__POSITIVE comic gem
+__label__POSITIVE entirely irresistible
+__label__NEGATIVE tired tyco ad
+__label__POSITIVE dramatically moving
+__label__NEGATIVE of low-budget filmmaking
+__label__NEGATIVE no solace here ,
+__label__POSITIVE very well done
+__label__POSITIVE have loved it
+__label__POSITIVE consider it ` perfection
+__label__NEGATIVE through contrived plot points
+__label__POSITIVE a triumph of imagination
+__label__POSITIVE first great film
+__label__POSITIVE energetic and
